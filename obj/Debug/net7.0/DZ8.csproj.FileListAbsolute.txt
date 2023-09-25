@@ -1,0 +1,14 @@
+D:\Projects c#\Seminary\DZ8\obj\Debug\net7.0\DZ8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects c#\Seminary\DZ8\obj\Debug\net7.0\DZ8.AssemblyInfoInputs.cache
+D:\Projects c#\Seminary\DZ8\obj\Debug\net7.0\DZ8.AssemblyInfo.cs
+D:\Projects c#\Seminary\DZ8\obj\Debug\net7.0\DZ8.csproj.CoreCompileInputs.cache
+D:\Projects c#\Seminary\DZ8\bin\Debug\net7.0\DZ8.exe
+D:\Projects c#\Seminary\DZ8\bin\Debug\net7.0\DZ8.deps.json
+D:\Projects c#\Seminary\DZ8\bin\Debug\net7.0\DZ8.runtimeconfig.json
+D:\Projects c#\Seminary\DZ8\bin\Debug\net7.0\DZ8.dll
+D:\Projects c#\Seminary\DZ8\bin\Debug\net7.0\DZ8.pdb
+D:\Projects c#\Seminary\DZ8\obj\Debug\net7.0\DZ8.dll
+D:\Projects c#\Seminary\DZ8\obj\Debug\net7.0\refint\DZ8.dll
+D:\Projects c#\Seminary\DZ8\obj\Debug\net7.0\DZ8.pdb
+D:\Projects c#\Seminary\DZ8\obj\Debug\net7.0\DZ8.genruntimeconfig.cache
+D:\Projects c#\Seminary\DZ8\obj\Debug\net7.0\ref\DZ8.dll
